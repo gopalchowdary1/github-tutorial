@@ -28,3 +28,6 @@
 ## command :: git add . 
 
 
+# Now we can commit the results directly into  we need to have a message  github by using 
+
+## git commit -m "message " -m "some description" 
